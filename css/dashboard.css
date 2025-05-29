@@ -710,7 +710,7 @@ a.rate-review:hover {
 }
 .icon-box-2 p {
     margin-top: 20px;
-    font-style: 16px;
+   /* font-style: 16px; */
 }
 .icon-box-2 i.im-icon-Mail-withAtSign {
     font-size: 58px;
