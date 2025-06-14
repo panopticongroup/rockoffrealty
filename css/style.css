@@ -3107,7 +3107,11 @@ ul.social-with-text li {
 /*         Counter CSS        */
 /* ======================================== */
 .counter .counter-item h3 {
-  font-size: 42px; }
+  font-size: 65px; }
+
+.counter .counter-item span {
+  font-size: 65px;
+}
 .counter .counter-item i {
   font-size: 80px; }
 .counter .d-line {
